@@ -1,1 +1,1 @@
-url : https://bheem438.github.io/Calculator/
+URL: https://bheem438.github.io/Calculator/
